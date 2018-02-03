@@ -1,0 +1,7 @@
+Djangogirls
+
+in virtual env:
+	pip install ipython   (een python repl die wat duidelijker is, met kleuren en als je op tab drukt een lijstje met operations.)
+
+Jupyter
+- soort ipython maar dan online - ook voor gis (check github)
